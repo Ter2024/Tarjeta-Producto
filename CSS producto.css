@@ -14,16 +14,13 @@
 
 @media(min-width:950px){
 
-body{
-    padding: 3% 5%;  
-}
 section{
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
     min-height: 70vh;
-    padding: 15% 22%;
+    padding: 13% 22%;
     background: var(--Cream);
    
 }
@@ -112,10 +109,7 @@ picture .imagen{
 }
 }
 @media (min-width:500px) and (max-width:949px){
-    
-body{
-    padding: 3% 5%;  
-}
+
     section{
 
     display: flex;
